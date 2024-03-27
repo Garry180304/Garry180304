@@ -1,16 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=6c09b9521mfsgy6ltrq1hujmc6kz05o1vv321b0iarhi0d9d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
+<div id="badges">
+  <a href="https://t.me/GARRYY18">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://github.com/Garry180304">
+    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&size=19&pause=1000&color=8771F7&center=true&random=false&width=490&lines=Hey%2C+I'm+Garry.;Just+a+newbie+in+the+coding+world.;Learning+and+exploring+new+things.;Feel+free+to+connect+and+learn+together!" alt="Typing SVG" /></a>
+  <h3 align="left">Cute Visitor Counter</h3>
 
-<!--
-**Garry180304/Garry180304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="view counter:Error!" width="400" src="https://count.getloli.com/get/@Garry180304?theme=moebooru" />
